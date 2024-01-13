@@ -1,6 +1,6 @@
 Config = {
-	Server_Name = "[SERVER_NAME]",
-	Discord_Link = 'https://discord.gg/',
+	Server_Name = "[Snow City RP]",
+	Discord_Link = 'https://discord.gg/8hPFzWmF',
 	Website_Link = 'https://badger.store/',
 	Allow_Refresh_Command = true, -- Allow usage of /refreshPerms command
 	DebugScript = false,
